@@ -33,6 +33,10 @@ This project implements the following Angular features, as demonstrated in the t
 ## Diagram and Demo
 ![alt text](image.png)
 
+
+https://github.com/user-attachments/assets/a3f05980-37a5-4c99-891a-fd4a93f7b628
+
+
 ## Development server
 
 To start a local development server, run:
