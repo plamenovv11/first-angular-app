@@ -1,6 +1,37 @@
-# HealthFitnessTracker
+# FirstAngularApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.6.
+
+## Features Used
+
+This project implements the following Angular features, as demonstrated in the tutorial:
+
+1. **Introduction and Setup**:
+   - Understanding Angular basics and setup process
+   - Benefits and use cases of Angular
+
+2. **Component Development**:
+   - Creating and using Angular components
+   - Data-binding in Angular
+   - Passing data between parent and child components
+   - Adding event listeners
+   - Example: Creating a Counter Component
+
+3. **Routing**:
+   - Creating routes and navigation within the application
+
+4. **Services**:
+   - Building Angular services for state management
+   - Making HTTP calls using Angular Services
+
+5. **Directives**:
+   - Implementing Angular built-in and custom directives
+
+6. **Pipes**:
+   - Using Angular Pipes for data transformation
+
+## Diagram and Demo
+![alt text](image.png)
 
 ## Development server
 
